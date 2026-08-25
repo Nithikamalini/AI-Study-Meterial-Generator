@@ -74,4 +74,3 @@ This project was built for a B.Tech IT final-year/placement portfolio, demonstra
 - **Export Options:** Allow users to download generated study materials as PDF or Word documents.
 
 ---
-*Built with ❤️ for a B.Tech IT Portfolio.*
